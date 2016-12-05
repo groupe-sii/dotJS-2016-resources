@@ -14,3 +14,10 @@ Nolan Lawson
 Ada Rose Edwards
 
 [Slides](https://ada.is/webvr/talk-dot-js.html#false)
+
+**Tuning Babel
+to your runtimes**
+
+Christophe Porteneuve
+
+[Slides](https://tdd.github.io/dotjs2016-babel-tuning/)
