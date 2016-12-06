@@ -34,3 +34,10 @@ Frontend JavaScript Frameworks**
 Evan You
 
 [Slides](https://docs.google.com/presentation/d/1_BlJxudppfKmAtfbNIcqNwzrC5vLrR_h1e09apcpdNY/edit)
+
+
+**UI as Pure Functions of Time**
+
+Thomas Belin
+
+[Slides](http://blog.thomasbelin.fr/talks/dotjs-ui-as-pure-functions-of-time/#1)
