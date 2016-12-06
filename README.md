@@ -27,3 +27,10 @@ Christophe Porteneuve
 Fedor Indutny
 
 [Slides](http://paris2016.talks.darksi.de/)
+
+**Reactivity in
+Frontend JavaScript Frameworks**
+
+Evan You
+
+[Slides](https://docs.google.com/presentation/d/1_BlJxudppfKmAtfbNIcqNwzrC5vLrR_h1e09apcpdNY/edit)
