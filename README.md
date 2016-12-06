@@ -21,3 +21,9 @@ to your runtimes**
 Christophe Porteneuve
 
 [Slides](https://tdd.github.io/dotjs2016-babel-tuning/)
+
+**Memory Layout of V8's Heap**
+
+Fedor Indutny
+
+[Slides](http://paris2016.talks.darksi.de/)
